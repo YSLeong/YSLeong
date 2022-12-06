@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently learning : **HTML5 and CSS**
 
+- 👨‍💻 My personal portfolio is available at : [https://ysleong.github.io](https://ysleong.github.io)
+
+- ⚽️ Apart from programming I enjoy: **Boxing 🥊 Golf 🏌🏽 Skiing ⛷**
+
 - 📫 How to reach me : **ysleong27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
