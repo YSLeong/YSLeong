@@ -7,7 +7,7 @@
 
 - 👨‍💻 My personal portfolio is available at : [https://ysleong.github.io](https://ysleong.github.io)
 
-- ⚽️ Apart from programming I enjoy: **Boxing 🥊 Golf 🏌🏽 Skiing ⛷**
+- ⚽️ Activities that I enjoy: **Boxing 🥊 Golf 🏌🏽 Skiing ⛷**
 
 - 📫 How to reach me : **ysleong27@gmail.com**
 
